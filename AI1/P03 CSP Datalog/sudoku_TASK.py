@@ -116,7 +116,7 @@ NotImplementedError: RecursiveBacktrackingSolver doesn't provide iteration
 """
 
 # Problem solver based on the minimum conflicts theory
-# This solver does not work, it provides only a singel solution
+# This solver does not work, it provides only a single solution
 # solver = csp.MinConflictsSolver()
 
 # Code snippet is already provided

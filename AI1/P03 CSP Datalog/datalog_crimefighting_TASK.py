@@ -194,8 +194,8 @@ for i in range(3):
     print()
 
 # Result
-# Going out from each the board members, thereare only leading pathes to Quandt Katarina from Eder Eva
-# at the dates: 16th, 21st, 23rd, two at 28th Fberuary but not on the 24th February.
+# Going out from each the board members, there are only leading pathes to Quandt Katarina from Eder Eva
+# at the dates: 16th, 21st, 23rd, two at 28th Feruary but not on the 24th February.
 # The assertions above tell us this already further above but there, Michael Jill is additionally proposed.
 # Thus, it might be rather possible that Eder Eva gave Quandt Katarina more or less directly a hint.
 
